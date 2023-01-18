@@ -1,0 +1,13 @@
+C:\Users\AdminSG\source\repos\MMS_msAccess\MMS_msAccess\bin\Debug\MMS_msAccess.exe.config
+C:\Users\AdminSG\source\repos\MMS_msAccess\MMS_msAccess\bin\Debug\MMS_msAccess.exe
+C:\Users\AdminSG\source\repos\MMS_msAccess\MMS_msAccess\bin\Debug\MMS_msAccess.pdb
+C:\Users\AdminSG\source\repos\MMS_msAccess\MMS_msAccess\obj\Debug\MMS_msAccess.Form1.resources
+C:\Users\AdminSG\source\repos\MMS_msAccess\MMS_msAccess\obj\Debug\MMS_msAccess.Properties.Resources.resources
+C:\Users\AdminSG\source\repos\MMS_msAccess\MMS_msAccess\obj\Debug\MMS_msAccess.csproj.GenerateResource.cache
+C:\Users\AdminSG\source\repos\MMS_msAccess\MMS_msAccess\obj\Debug\MMS_msAccess.csproj.CoreCompileInputs.cache
+C:\Users\AdminSG\source\repos\MMS_msAccess\MMS_msAccess\obj\Debug\MMS_msAccess.exe
+C:\Users\AdminSG\source\repos\MMS_msAccess\MMS_msAccess\obj\Debug\MMS_msAccess.pdb
+D:\bin\MMS_msAccess.exe.config
+D:\bin\MMS_msAccess.exe
+D:\bin\MMS_msAccess.pdb
+C:\Users\AdminSG\source\repos\MMS_msAccess\MMS_msAccess\obj\Debug\MMS_msAccess.csproj.AssemblyReference.cache

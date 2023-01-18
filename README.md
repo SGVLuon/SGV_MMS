@@ -9,7 +9,8 @@ Process deploy data : Wiseyeon > Access > Mssql
   
 Access 
   pw : 12112009
-  query - to mssql : 
+  
+  query : to mssql 
   INSERT INTO dbo_Checkinout
   SELECT src.*
   FROM checkinout AS src LEFT JOIN dbo_Checkinout AS tgt ON (src.timestr = tgt.timestr) AND (src.userenrollnumber = tgt.userenrollnumber)
